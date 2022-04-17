@@ -1,5 +1,12 @@
 # test4_17.c
 //Little practice.
+
+
+
+
+
+
+
 #include <stdio.h>
 int NUM(int num)
 {
